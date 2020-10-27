@@ -1,0 +1,11 @@
+10
+USER_1_MAIL;GiftVoucher;10
+USER_2_MAIL;GiftVoucher;10
+USER_3_MAIL;GiftVoucher;10
+USER_4_MAIL;GiftVoucher;10
+USER_5_MAIL;GiftVoucher;10
+USER_6_MAIL;GiftVoucher;10
+USER_7_MAIL;GiftVoucher;10
+USER_8_MAIL;GiftVoucher;10
+USER_9_MAIL;GiftVoucher;10
+USER_10_MAIL;GiftVoucher;10
